@@ -74,7 +74,7 @@ ENV CONFIG_VOLUME=$config_dir \
     WHOOGLE_ALT_WIKI=$wikipedia_alt \
     WHOOGLE_ALT_IMDB=$imdb_alt \
     WHOOGLE_ALT_QUORA=$quora_alt \
-    ENV WHOOGLE_ALT_IG=$instagram_alt
+    WHOOGLE_ALT_IG=$instagram_alt
 
 WORKDIR /whoogle
 
