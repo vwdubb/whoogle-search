@@ -52,7 +52,7 @@ ARG imgur_alt='farside.link/rimgo'
 ARG wikipedia_alt='farside.link/wikiless'
 ARG imdb_alt='farside.link/libremdb'
 ARG quora_alt='farside.link/quetre'
-ARG instagram_alt='bibliogram.art/u'
+ARG instagram_alt='imginn.com'
 
 ENV CONFIG_VOLUME=$config_dir \
     WHOOGLE_URL_PREFIX=$url_prefix \
